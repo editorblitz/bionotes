@@ -62,7 +62,7 @@
           },
           {
             "item": "Covid therapies",
-            "description": "",
+            "description": null,
             "details": {
               "Paxlovid": "COVID antiviral",
               "Notes": "COVID-19 vaccine with partner BioNTech"
