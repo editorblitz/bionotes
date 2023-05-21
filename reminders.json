@@ -53,19 +53,19 @@
         "group": "Pfizer",
         "items": [
           {
-            "item": "Covid vaccine",
-            "description": "First CAR-T approved in U.S.",
+            "item": "Flu vaccines",
+            "description": "Prevnar shots",
             "details": {
-              "Maker": "Novartis",
-              "Notes": "Approved in 2017. Initially approved for pediatric and young adult patients with a form of acute lymphoblastic leukemia (ALL). Later it also got approved for adult patients with relapsed or refractory (r/r) large B-cell lymphoma after two or more lines of systemic therapy."
+              "Prevnar-20": "20-strain pneumococcal shot OK'd for infants and children in April 2023 and OK'd in adults in 2021.",
+              "Prevnar-13": "Protects against 13 bacteria strains."
             }
           },
           {
-            "item": "RSV vaccine",
-            "description": "Second CAR-T approved in U.S.",
+            "item": "Covid therapies",
+            "description": "",
             "details": {
-              "Maker": "Gilead Sciences",
-              "Notes": "Approved in 2017. It is approved for adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy."
+              "Paxlovid": "COVID antiviral",
+              "Notes": "COVID-19 vaccine with partner BioNTech"
             }
           }
         ]
