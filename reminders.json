@@ -10,7 +10,7 @@
             "description": "First CAR-T approved in U.S.",
             "details": {
               "Maker": "Novartis",
-              "Notes": "Approved in 2017. Initially approved for pediatric and young adult patients with a form of acute lymphoblastic leukemia (ALL). Later it also got approved for adult patients with relapsed or refractory (r/r) large B-cell lymphoma after two or more lines of systemic therapy."
+              "Notes": "Approved in 2017.  Initially approved for pediatric and young adult patients with a form of acute lymphoblastic leukemia (ALL). Later it also got approved for adult patients with relapsed or refractory (r/r) large B-cell lymphoma after two or more lines of systemic therapy."
             }
           },
           {
@@ -19,6 +19,22 @@
             "details": {
               "Maker": "Gilead Sciences",
               "Notes": "Approved in 2017. It is approved for adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy."
+            }
+          },
+          {
+            "item": "Tecartus",
+            "description": "Third CAR-T approved",
+            "details": {
+              "Maker": "Gilead Sciences",
+              "Notes": "Approved in 2020. It is approved for adult patients with relapsed or refractory mantle cell lymphoma (MCL)."
+            }
+          },
+          {
+            "item": "Breyanzi",
+            "description": "Third CAR-T approved",
+            "details": {
+              "Maker": "Bristol Myers Squibb.",
+              "Notes": "Approved in 2021. It is approved for the treatment of adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy."
             }
           }
         ]
@@ -65,7 +81,7 @@
             "description": null,
             "details": {
               "Paxlovid": "COVID antiviral",
-              "Notes": "COVID-19 vaccine with partner BioNTech"
+              "Comirnaty": "COVID-19 vaccine with partner BioNTech"
             }
           }
         ]
