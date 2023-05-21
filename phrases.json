@@ -1,0 +1,14 @@
+[
+    {
+        "regex": "\\bmarry\\b|\\bmarries\\b",
+        "message": "Pairs is better"
+    },
+    {
+        "regex": "\\badvisor\\b",
+        "message": "we only do advisers"
+    },
+    {
+        "regex": "\\bnot only\\b",
+        "message": "avoid because it makes the reader do more work to understand the sentence"
+    }
+]
