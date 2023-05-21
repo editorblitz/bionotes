@@ -27,19 +27,19 @@
         "group": "RSV vaccines",
         "items": [
           {
-            "item": "Kymriah",
-            "description": "First CAR-T approved in U.S.",
+            "item": "Abrysvo",
+            "description": "FDA considering for adults and maternal use in 2023.",
             "details": {
-              "Maker": "Novartis",
-              "Notes": "Approved in 2017. Initially approved for pediatric and young adult patients with a form of acute lymphoblastic leukemia (ALL). Later it also got approved for adult patients with relapsed or refractory (r/r) large B-cell lymphoma after two or more lines of systemic therapy."
+              "Maker": "Pfizer",
+              "Notes": "Advisers voted 14-0 and 10-4 (safety for infant use and a closer 7-4 for older adults use in separate 2023 votes, approvals due August and May, respectively."
             }
           },
           {
-            "item": "Yescarta",
-            "description": "Second CAR-T approved in U.S.",
+            "item": "Arexvy",
+            "description": "First RSV vaccine to win U.S. approval, in May 2023.",
             "details": {
-              "Maker": "Gilead Sciences",
-              "Notes": "Approved in 2017. It is approved for adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy."
+              "Maker": "GSK",
+              "Notes": "Cleared only for use in adults 60 years or older."
             }
           }
         ]
