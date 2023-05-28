@@ -118,25 +118,20 @@
 	
 </script>
 
+
+
+
+	
 <main>
   
   <button on:click={() => showModal = true}>Markdown Converter</button>
-
-  {#if showModal}
-  <div class="modal" out:receive="{{key: 'modal'}}">
-    <div class="modal-content" in:send="{{key: 'modal'}}">
-        <button on:click="{() => showModal = false}">Close</button>
-        <MarkdownToJson/>
-    </div>
-  </div>
-  {/if}
-
+	
 <div class="app-container">
  <div class="button-container">
-  <button class="left-panel-button" on:click={() => activeDiv = 1}>
+  <button class="left-panel-button" on:click={() => activeDiv = 2}>
     <i class="fas fa-icon1"></i>
   </button>
-  <button class="left-panel-button" on:click={() => activeDiv = 2}>
+  <button class="left-panel-button" on:click={() => activeDiv = 1}>
     <i class="fas fa-icon2"></i>
   </button>
 </div>
@@ -207,7 +202,14 @@
 </div>
 
 </main>
-	
+	  {#if showModal}
+  <div class="modal" transition:receive="{{key: 'modal'}}">
+    <div class="modal-content" transition:send="{{key: 'modal'}}">
+        <button on:click="{() => showModal = false}">Close</button>
+        <MarkdownToJson/>
+    </div>
+  </div>
+{/if}
 <style>
   
   .app-container {
@@ -228,7 +230,9 @@
     height: 50px;
     margin-bottom: 10px;
     border-radius: 0;
-  }
+    padding: 20px;
+    box-sizing: border-box; 
+}
 
   .column {
 		flex-basis: 33%;
@@ -280,6 +284,26 @@
 .color-8 { color: #800000; }
 .color-9 { color: #808000; }
 
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
 
+.modal-content {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+}
 	
 	</style>
