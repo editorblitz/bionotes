@@ -5,7 +5,7 @@
 4. Update App fetch requests to github raw links
 5. Use app to explore data tree
 
-![Screenshot 2023-05-28 101142](https://github.com/editorblitz/bionotes/assets/67771494/59e99ca2-6698-457d-856c-798cf982ec12)
+![image](https://github.com/editorblitz/bionotes/assets/67771494/69d0bb04-4758-4a80-8dc2-6407f6c1b94e)
 
 Example of markdown structure:
 ```
