@@ -2,9 +2,10 @@
   import { onMount } from 'svelte';
   import { writable } from 'svelte/store';
   import MarkdownToJson from './MarkdownToJson.svelte';
-  import { crossfade } from 'svelte/transition';
-  import { cubicInOut } from 'svelte/easing';
-  const [send, receive] = crossfade({ duration: 200, easing: cubicInOut });
+	// saving the modal code below in case want to add back
+  //import { crossfade } from 'svelte/transition';
+ // import { cubicInOut } from 'svelte/easing';
+ // const [send, receive] = crossfade({ duration: 200, easing: cubicInOut });
 	
 	let activeDiv = 2;
 	let showModal = false;
@@ -111,11 +112,6 @@
     return phrase ? phrase.message : null;
   }
     
-  const fontAwesomeScript = document.createElement('script');
-  fontAwesomeScript.src = 'https://kit.fontawesome.com/a076d05399.js';
-  fontAwesomeScript.crossorigin = 'anonymous';
-  document.body.appendChild(fontAwesomeScript);
-	
 </script>
 
 
@@ -123,23 +119,24 @@
 
 	
 <main>
-  
-  <button on:click={() => showModal = true}>Markdown Converter</button>
-	
+  	
 <div class="app-container">
  <div class="button-container">
   <button class="left-panel-button" on:click={() => activeDiv = 2}>
-    <i class="fas fa-icon1"></i>
-  </button>
+    </button>
   <button class="left-panel-button" on:click={() => activeDiv = 1}>
-    <i class="fas fa-icon2"></i>
-  </button>
+    </button>
+	 <button class="left-panel-button" on:click={() => activeDiv = 3}>
+    </button>
+	 
+	 
 </div>
 
-  <div class="content-container">
+  <div class="content-container-overall">
     <div style="display: {activeDiv === 1 ? 'block' : 'none'};">
       <!-- The first div content goes here -->
-      <div class="column">
+      <div class="content-container-textpad">
+			<div class="column">
         <h3>Enter your text:</h3>
         <textarea bind:value={inputText} />
         <p>
@@ -155,6 +152,7 @@
           {/each}
         </p>
       </div>
+				</div>
     </div>
 
     <div style="display: {activeDiv === 2 ? 'block' : 'none'};">
@@ -177,7 +175,7 @@
       </div>
 
       <div class="column">
-        <h3>Details</h3>
+        <h3>Items</h3>
         {#if selectedGroup}
           {#each selectedGroup.items as item, index}
             <button class={`color-${colorPalette.indexOf(colorPalette[index % colorPalette.length])}`} on:click={() => toggleItem(item, index)}>{item.item}</button>
@@ -186,45 +184,74 @@
         {/if}
       </div>
 
-   <div class="column">
+  <div class="column">
   <h3>Details</h3>
   {#if selectedItems.length}
     {#each selectedItems as {item: {item, details}, color}}
       {#each Object.entries(details) as [key, value]}
-        <p class={`color-${colorPalette.indexOf(color)}`}>{key}: {value}</p>
+        <div class={`detail-block color-${colorPalette.indexOf(color)}`}>
+          <p><span class="key-text">{key}:</span> {value}</p>
+        </div>
       {/each}
     {/each}
   {/if}
 </div>
     </div>
   </div>
-</div>
+
+	
+	<div style="display: {activeDiv === 3 ? 'block' : 'none'};">
+	   <MarkdownToJson/>
+  </div>
+</div>		
+		
 </div>
 
 </main>
-	  {#if showModal}
-  <div class="modal" transition:receive="{{key: 'modal'}}">
-    <div class="modal-content" transition:send="{{key: 'modal'}}">
-        <button on:click="{() => showModal = false}">Close</button>
-        <MarkdownToJson/>
-    </div>
-  </div>
-{/if}
+
 <style>
-  
+	.body {
+		width: 100%;
+		flex-grow: 1;
+	}
+	
   .app-container {
     display: flex;
-  }
+		flex-grow: 1;
+    width: 100%;
+}
+	
+	button {
+   border-radius: 8px;  /* Change this to the desired radius */
+}
   .button-container {
     display: flex;
     flex-direction: column;
     justify-content: start;
     align-items: start;
-  }
-  .content-container {
+}
+  
+	.content-container-overall {
 		display: flex; 
-    width: 100%;
+    flex-grow: 1;
+		width: 100%;
+		height: 100%;
   }
+	
+	.content-container-textpad {
+    width: 100%;
+		flex-grow: 1;
+	}
+	
+	
+	.content-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) 2fr 5fr;
+    width: 100%;
+    height: 100vh;
+    gap: 10px;
+  }
+	
   .left-panel-button {
     width: 50px;
     height: 50px;
@@ -235,15 +262,18 @@
 }
 
   .column {
-		flex-basis: 33%;
-    background-color: #e0e0e0;
-    padding: 16px;
-    box-sizing: border-box;
-  }
+  
+  background-color: #e0e0e0;
+		flex-grow: 1;
+  padding: 16px;
+  box-sizing: border-box;
+	height: 100%
+}
 
   textarea {
     width: 100%;
     height: 150px;
+		flex-grow: 1;
   }
 
   .highlight {
@@ -273,37 +303,28 @@
     opacity: 1;
   }
 	
-.color-0 { color: #FF0000; }
-.color-1 { color: #00FF00; }
-.color-2 { color: #0000FF; }
-.color-3 { color: #FFFF00; }
-.color-4 { color: #00FFFF; }
-.color-5 { color: #FF00FF; }
-.color-6 { color: #C0C0C0; }
-.color-7 { color: #808080; }
-.color-8 { color: #800000; }
-.color-9 { color: #808000; }
+.color-0 { border: 2px solid #FF0000; }
+.color-1 { border: 2px solid #00FF00; }
+.color-2 { border: 2px solid #0000FF; }
+.color-3 { border: 2px solid #FFFF00; }
+.color-4 { border: 2px solid #00FFFF; }
+.color-5 { border: 2px solid #FF00FF; }
+.color-6 { border: 2px solid #C0C0C0; }
+.color-7 { border: 2px solid #808080; }
+.color-8 { border: 2px solid #800000; }
+.color-9 { border: 2px solid #808000; }
 
-.modal {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: rgba(0, 0, 0, 0.5);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  z-index: 1000;
-}
-
-.modal-content {
-  background: white;
-  padding: 20px;
-  border-radius: 8px;
-  max-width: 90%;
-  max-height: 90%;
-  overflow: auto;
+.detail-block {
+  border-style: solid;
+  border-width: 2px;
+  margin-bottom: 10px;
+  padding: 5px;
+	background-color: #F4F4F4;
+	border-radius: 8px;  /* Change this to the desired radius */
 }
 	
-	</style>
+	.key-text {
+  font-weight: 600;
+}
+	
+</style>
