@@ -9,13 +9,13 @@
             "item": "Kymriah",
             "description": "(Novartis)   First CAR-T ever approved by FDA in Aug 2017",
             "details": {
-              "Indications": {
-                "text": "Initially approved for pediatric and young adult patients with a type of acute lymphoblastic leukemia (ALL). \n [In 2018](https://www.drugs.com/history/kymriah.html), OK'd for adults with r/r large B-cell lymphoma after two or more therapies.",
-                "collapsible": true
+              "Approvals": {
+                "text": "Initially OK'd for pediatric and young adult patients with a type of B-cell acute lymphoblastic leukemia (ALL).  \\n In 2018, OK'd for adults with r/r large B-cell lymphoma after two or more therapies.  \\n In 2022, Ok'd for r/r follicular lymphoma. [history](https://www.drugs.com/history/kymriah.html)",
+                "collapsible": false
               },
               "Notes": {
-                "text": "xxxxxxxxxxxxxxxxxxxxx",
-                "collapsible": false
+                "text": "Invented by Carl June whose results were so notable NYT published [in 2011](https://www.nytimes.com/2011/09/13/health/13gene.html)",
+                "collapsible": true
               }
             }
           },
@@ -23,12 +23,12 @@
             "item": "Yescarta",
             "description": "(Gilead)   2nd US approved CAR-T in Oct 2017",
             "details": {
-              "Indications": {
-                "text": "Cleared for several B-cell lymphomas including DLBCL & follicular lymphoma. 2022 won earlier use in lymphoma.",
-                "collapsible": true
+              "Approvals": {
+                "text": "Cleared for several B-cell lymphomas including DLBCL & follicular lymphoma. 2022 won earlier use in lymphoma. [history](https://www.drugs.com/history/yescarta.html)",
+                "collapsible": false
               },
               "Notes": {
-                "text": "xxxxxxxxxxxx",
+                "text": "Gilead bought Kite Pharma in 2017 for $12B to get its CAR-Ts.",
                 "collapsible": false
               }
             }
@@ -37,12 +37,12 @@
             "item": "Tecartus",
             "description": "(Gilead)   3rd CAR-T approved in July 2020",
             "details": {
-              "Indications": {
-                "text": "First for mantle cell lymphoma, extended to acute lymphoblastic leukemia",
-                "collapsible": true
+              "Approvals": {
+                "text": "First for mantle cell lymphoma, extended to acute lymphoblastic leukemia in 2021 [history](drugs.com/history/tecartus.html)",
+                "collapsible": false
               },
               "Notes": {
-                "text": "xxxxxxxxxxxxxxxxxxxxxxxx",
+                "text": "Slightly different version of Yescarta",
                 "collapsible": false
               }
             }
@@ -51,12 +51,12 @@
             "item": "Breyanzi",
             "description": "(Bristol Myers)   4th CAR-T approved in Feb 2021",
             "details": {
-              "Indications": {
-                "text": "for types of large B-cell lymphoma",
-                "collapsible": true
+              "Approvals": {
+                "text": "For types of large B-cell lymphoma [history](https://www.drugs.com/history/breyanzi.html)",
+                "collapsible": false
               },
               "Notes": {
-                "text": "xxxxxxxxxxxxxxxxxx",
+                "text": "Targets CD-19.",
                 "collapsible": false
               }
             }
@@ -65,9 +65,9 @@
             "item": "Abecma",
             "description": "(Bristol Myers)   5th CAR-T approved in Mar 2021, 1st for multiple myeloma",
             "details": {
-              "Indications": {
-                "text": "xxxxxxxxxxxxxxxxxx",
-                "collapsible": true
+              "Approvals": {
+                "text": "R/r multiple myeloma [history](https://www.drugs.com/history/abecma.html)",
+                "collapsible": false
               },
               "Notes": {
                 "text": "Targets B-cell maturation antigen (BCMA).",
@@ -79,12 +79,12 @@
             "item": "Carvykti",
             "description": "(J&J/Legend Biotech)   6th CAR-T approved in Feb 2022, 2nd for multiple myeloma",
             "details": {
-              "Indications": {
-                "text": "xxxxxxxxxxxxxxxxxxxxx",
-                "collapsible": true
+              "Approvals": {
+                "text": "R/r multiple myeloma [history](https://www.drugs.com/history/carvykti.html)",
+                "collapsible": false
               },
               "Notes": {
-                "text": "Approved in Feb 2022. Targets BCMA.",
+                "text": "Targets B-cell maturation antigen (BCMA).",
                 "collapsible": false
               }
             }
@@ -377,6 +377,238 @@
               },
               "Notes": {
                 "text": "Approved May 2023",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Companies",
+    "groups": [
+      {
+        "group": "Pfizer",
+        "items": [
+          {
+            "item": "Flu vaccines",
+            "description": "Prevnar shots",
+            "details": {
+              "Prevnar-20": {
+                "text": "20-strain pneumococcal shot OK'd for infants and children in April 2023 and OK'd in adults in 2021.",
+                "collapsible": false
+              },
+              "Prevnar-13": {
+                "text": "Protects against 13 bacteria strains.",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Covid therapies",
+            "description": "",
+            "details": {
+              "Paxlovid": {
+                "text": "COVID antiviral",
+                "collapsible": false
+              },
+              "Comirnaty": {
+                "text": "COVID-19 vaccine with partner BioNTech",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "Novo Novartis",
+        "items": [
+          {
+            "item": "GLP-1 agonists",
+            "description": "description",
+            "details": {
+              "Victoza, Saxenda (liraglutide)": {
+                "text": "Victoza - daily shot for diabetes approved in 2010Saxenda - Novo pioneered the use of insulin-stimulating diabetes drugs as weight loss treatments when it launched a high-dose version Victoza as Saxenda in 2014.",
+                "collapsible": false
+              },
+              "Ozempic": {
+                "text": "Approved in 2017 for Type 2 diabetes - injectable semaglutide in 0.5, 1.0 and 2.0 mg doses",
+                "collapsible": false
+              },
+              "Rybelsus": {
+                "text": "Approved 2019 for Type 2 diabetes - pill of semaglutide in 3, 7 and 14 mg doses",
+                "collapsible": false
+              },
+              "Wegovy": {
+                "text": "Approved in 2021 for weight loss - injectable semaglutide in escalating doses to begin and then 2.4 mg for maintenance",
+                "collapsible": false
+              },
+              "Experimental obesity pill": {
+                "text": "Once daily pill of 50 mg semaglutide Novo plans to ask for approval after a Phase 3 study showed it help patients lose an average 15.1% of weight",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "Novartis",
+        "items": []
+      },
+      {
+        "group": "Eli Lilly",
+        "items": [
+          {
+            "item": "GLP-1 agonists",
+            "description": "Glucagon-like peptide-1 receptor agonists",
+            "details": {
+              "Trulicity (dulaglutide)": {
+                "text": "Weekly shot for Type 2 diabetes approved in 2014",
+                "collapsible": false
+              },
+              "Mounjaro (tirzepatide)": {
+                "text": "Shot approved to control diabetes in May 2022Works by stimulating two hormones, GLP-1 and GIP",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Other diabetes",
+            "description": "",
+            "details": {
+              "Basaglar": {
+                "text": "Long-acting human insulin analog. Partner Boehringer Ingelheim",
+                "collapsible": false
+              },
+              "Humalog": {
+                "text": "Human insulin analogs",
+                "collapsible": false
+              },
+              "Jardiance": {
+                "text": "Approved for type 2 diabetes. Cleared expanded use in heart failure patients. Partner Boehringer Ingelheim",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Oncology",
+            "description": "",
+            "details": {
+              "Alimta": {
+                "text": "",
+                "collapsible": false
+              },
+              "Cyramza": {
+                "text": "",
+                "collapsible": false
+              },
+              "Erbitux": {
+                "text": "",
+                "collapsible": false
+              },
+              "Jaypirca": {
+                "text": "",
+                "collapsible": false
+              },
+              "Retevmo": {
+                "text": "",
+                "collapsible": false
+              },
+              "Tyvyt": {
+                "text": "",
+                "collapsible": false
+              },
+              "Verzenio": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Immunology",
+            "description": "",
+            "details": {
+              "Olumiant": {
+                "text": "",
+                "collapsible": false
+              },
+              "Taltz": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Neuroscience",
+            "description": "",
+            "details": {
+              "Cymbalta": {
+                "text": "",
+                "collapsible": false
+              },
+              "Emgality": {
+                "text": "",
+                "collapsible": false
+              },
+              "Zyprexa": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Other products",
+            "description": "",
+            "details": {
+              "Covid therapies": {
+                "text": "bamlanivimab and etesevimab, and bebtelovimab",
+                "collapsible": false
+              },
+              "Cialis": {
+                "text": "",
+                "collapsible": false
+              },
+              "Forteo": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Diseases",
+    "groups": [
+      {
+        "group": "Neuro-degenerative",
+        "items": [
+          {
+            "item": "Alzheimer's disease",
+            "description": "xxxxxxxxxxx",
+            "details": {
+              "xxxxxxxxxxxxxxxxxxxxx": {
+                "text": "xxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "xxxxxxxxxx": {
+                "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "ALS",
+            "description": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "Failed drugs": {
+                "text": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
                 "collapsible": false
               }
             }
