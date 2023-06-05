@@ -7,7 +7,7 @@
         "items": [
           {
             "item": "Kymriah",
-            "description": "(Novartis) First CAR-T ever approved by FDA in Aug 2017",
+            "description": "(Novartis)   First CAR-T ever approved by FDA in Aug 2017",
             "details": {
               "Indications": {
                 "text": "Initially approved for pediatric and young adult patients with a form of acute lymphoblastic leukemia (ALL). Later it also got approved for adult patients with relapsed or refractory (r/r) large B-cell lymphoma after two or more lines of systemic therapy.",
@@ -21,7 +21,7 @@
           },
           {
             "item": "Yescarta",
-            "description": "(Gilead) 2nd US approved CAR-T in Oct 2017, cleared for several B-cell lymphomas including DLBCL & follicular lymphoma. 2022 won earlier use in lymphoma",
+            "description": "(Gilead)   2nd US approved CAR-T in Oct 2017",
             "details": {
               "Indications": {
                 "text": "Cleared for several B-cell lymphomas including DLBCL & follicular lymphoma. 2022 won earlier use in lymphoma.",
@@ -35,7 +35,7 @@
           },
           {
             "item": "Tecartus",
-            "description": "(Gilead) 3rd CAR-T approved in July 2020, first for mantle cell lymphoma, extended to acute lymphoblastic leukemia",
+            "description": "(Gilead)   3rd CAR-T approved in July 2020",
             "details": {
               "Indications": {
                 "text": "First for mantle cell lymphoma, extended to acute lymphoblastic leukemia",
@@ -49,7 +49,7 @@
           },
           {
             "item": "Breyanzi",
-            "description": "(Bristol Myers) 4th CAR-T approved in Feb 2021",
+            "description": "(Bristol Myers)   4th CAR-T approved in Feb 2021",
             "details": {
               "Indications": {
                 "text": "for types of large B-cell lymphoma",
@@ -63,7 +63,7 @@
           },
           {
             "item": "Abecma",
-            "description": "(Bristol Myers) 5th CAR-T approved in Mar 2021, 1st for multiple myeloma",
+            "description": "(Bristol Myers)   5th CAR-T approved in Mar 2021, 1st for multiple myeloma",
             "details": {
               "Indications": {
                 "text": "xxxxxxxxxxxxxxxxxx",
@@ -77,7 +77,7 @@
           },
           {
             "item": "Carvykti",
-            "description": "(J&J/Legend Biotech) 6th CAR-T approved in Feb 2022, 2nd for multiple myeloma",
+            "description": "(J&J/Legend Biotech)   6th CAR-T approved in Feb 2022, 2nd for multiple myeloma",
             "details": {
               "Indications": {
                 "text": "xxxxxxxxxxxxxxxxxxxxx",
