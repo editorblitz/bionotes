@@ -1,0 +1,388 @@
+[
+  {
+    "categoryName": "Medicines",
+    "groups": [
+      {
+        "group": "CAR-T",
+        "items": [
+          {
+            "item": "Kymriah",
+            "description": "(Novartis) First CAR-T ever approved by FDA in Aug 2017",
+            "details": {
+              "Indications": {
+                "text": "Initially approved for pediatric and young adult patients with a form of acute lymphoblastic leukemia (ALL). Later it also got approved for adult patients with relapsed or refractory (r/r) large B-cell lymphoma after two or more lines of systemic therapy.",
+                "collapsible": true
+              },
+              "Notes": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Yescarta",
+            "description": "(Gilead) 2nd US approved CAR-T in Oct 2017, cleared for several B-cell lymphomas including DLBCL & follicular lymphoma. 2022 won earlier use in lymphoma",
+            "details": {
+              "Indications": {
+                "text": "Cleared for several B-cell lymphomas including DLBCL & follicular lymphoma. 2022 won earlier use in lymphoma.",
+                "collapsible": true
+              },
+              "Notes": {
+                "text": "xxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Tecartus",
+            "description": "(Gilead) 3rd CAR-T approved in July 2020, first for mantle cell lymphoma, extended to acute lymphoblastic leukemia",
+            "details": {
+              "Indications": {
+                "text": "First for mantle cell lymphoma, extended to acute lymphoblastic leukemia",
+                "collapsible": true
+              },
+              "Notes": {
+                "text": "xxxxxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Breyanzi",
+            "description": "(Bristol Myers) 4th CAR-T approved in Feb 2021",
+            "details": {
+              "Indications": {
+                "text": "for types of large B-cell lymphoma",
+                "collapsible": true
+              },
+              "Notes": {
+                "text": "xxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Abecma",
+            "description": "(Bristol Myers) 5th CAR-T approved in Mar 2021, 1st for multiple myeloma",
+            "details": {
+              "Indications": {
+                "text": "xxxxxxxxxxxxxxxxxx",
+                "collapsible": true
+              },
+              "Notes": {
+                "text": "Targets B-cell maturation antigen (BCMA).",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Carvykti",
+            "description": "(J&J/Legend Biotech) 6th CAR-T approved in Feb 2022, 2nd for multiple myeloma",
+            "details": {
+              "Indications": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": true
+              },
+              "Notes": {
+                "text": "Approved in Feb 2022. Targets BCMA.",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "Bispecific antibodies",
+        "items": [
+          {
+            "item": "Blincyto",
+            "description": "First to win approval in 2014.",
+            "details": {
+              "Maker": {
+                "text": "Amgen",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "These bispecific drugs work by binding simultaneously to proteins on tumor cells and on T cells, inducing an immune attack on cancer. The first drugs to gain approval treated leukemia and lymphoma based on protein targets distinctive to those diseases.",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Hemlibra",
+            "description": "2nd bispecific antibody approved in U.S.",
+            "details": {
+              "Maker": {
+                "text": "Roche",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "Binds to two proteins important in blood clotting to help stem bleeding in people with hemophilia. Targets: CD19 x CD3",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Rybrevant",
+            "description": "3rd bispecific antibody approved in U.S. in May 2021",
+            "details": {
+              "Maker": {
+                "text": "J&J",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "The FDA approved Rybrevant to treat a specific mutation in a cancer-linked protein that’s thought to be present in about 2% of patients with non-small cell lung cancer. Targets: EGFR x cMET",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Vabysmo",
+            "description": "Approved in Jan 2022, fourth FDA-approved therapy for “wet” age-related macular degeneration",
+            "details": {
+              "Maker": {
+                "text": "Roche",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "4th FDA-approved therapy for “wet” age-related macular degeneration. VEGF x Ang-2",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Tecvayli",
+            "description": "Approved in Oct 2022, first-of-its kind for multiple myeloma",
+            "details": {
+              "Maker": {
+                "text": "J&J",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "Targets BCMA x CD3. One of a wave to target this protein found on malignant cells in multiple myeloma. GlaxoSmithKline was the first to target BCMA with an antibody-drug conjugate Blenrep OK'd in 2020. The CAR-T Abecma also targets BCMA. Tecvayli was J&J's 4th approved treatment for multiple myeloma.",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Epkinly",
+            "description": "Approved in May 2023",
+            "details": {
+              "Maker": {
+                "text": "AbbVie",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "Relapsed or refractory diffuse large B-cell lymphoma (DLBCL). CD20 x CD3",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Lunsumio",
+            "description": "Approved in Dec 2022",
+            "details": {
+              "Maker": {
+                "text": "Roche",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "Follicular lymphoma. CD20 x CD3",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Talquetamab",
+            "description": "Experimental",
+            "details": {
+              "Maker": {
+                "text": "J&J",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "Targets GPR5CD x CD3",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "RSV vaccines",
+        "items": [
+          {
+            "item": "Abrysvo",
+            "description": "FDA considering for adults and maternal use in 2023.",
+            "details": {
+              "Maker": {
+                "text": "Pfizer",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "Advisers voted 14-0 and 10-4 (safety for infant use and a closer 7-4 for older adults use in separate 2023 votes, approvals due August and May, respectively.",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Arexvy",
+            "description": "First RSV vaccine to win U.S. approval, in May 2023.",
+            "details": {
+              "Maker": {
+                "text": "GSK",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "Cleared only for use in adults 60 years or older.",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "Viral vectors",
+        "items": [
+          {
+            "item": "AAV",
+            "description": "adeno-associated virus. Single stranded DNA",
+            "details": {
+              "Integration": {
+                "text": "Episomal, with 0.1% genomic. You can't say liver directed AAV gene therapy will be permanent, doesn't survive cell division or apoptosis. Max insertion size: Less than 8kb",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "XXXXXXXXXXXXXXXXXXXXX",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Adenovirus",
+            "description": "double stranded DNA",
+            "details": {
+              "Integration": {
+                "text": "Episomal. Short term effect of 1-2 weeks. 5kb",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Lentivirus",
+            "description": "RNA",
+            "details": {
+              "Integration": {
+                "text": "Genomic. Life-long transgene expression. 8-12kb",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Herpes Simplex Virus",
+            "description": "double stranded DNA",
+            "details": {
+              "Integration": {
+                "text": "Episomal. Targets are CNS, muscle, heart, liver. Large packaging capacity between 30-50kb",
+                "collapsible": false
+              },
+              "Examples": {
+                "text": "Krystal Biotech's Vyjuvek, first topical gene therapy OK'd in May 2023, for \"butterfly children\" with dystrophic epidermolysis bullosa.",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "Gene therapy for inherited disease",
+        "items": [
+          {
+            "item": "Zolgensma",
+            "description": "xxxxxxxxxxx",
+            "details": {
+              "Maker": {
+                "text": "Novartis",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Luxturna",
+            "description": "xxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "Maker": {
+                "text": "Novartis",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Zynteglo",
+            "description": "xxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "Maker": {
+                "text": "xxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Skysona",
+            "description": "xxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "Maker": {
+                "text": "xxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Hemgenix",
+            "description": "xxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "Maker": {
+                "text": "xxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Vyjuvek",
+            "description": "first topical (and redosable) gene therapy, for dystrophic epidermolysis bullosa. Sixth GT for inherited approved.",
+            "details": {
+              "Maker": {
+                "text": "Krystal Biotech",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "Approved May 2023",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
