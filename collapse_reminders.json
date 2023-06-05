@@ -1,0 +1,371 @@
+[
+  {
+    "categoryName": "Medicines",
+    "groups": [
+      {
+        "group": "CAR-T",
+        "items": [
+          {
+            "item": "Kymriah",
+            "description": "(Novartis) First CAR-T ever approved by FDA in Aug 2017",
+            "details": {
+              "Indications": "> Initially approved for pediatric and young adult patients with a form of acute lymphoblastic leukemia (ALL). Later it also got approved for adult patients with relapsed or refractory (r/r) large B-cell lymphoma after two or more lines of systemic therapy.>",
+              "Notes": "xxxxxxxxxxxxxxxxxxxxx"
+            }
+          },
+          {
+            "item": "Yescarta",
+            "description": "(Gilead) 2nd US approved CAR-T in Oct 2017, cleared for several B-cell lymphomas including DLBCL & follicular lymphoma. 2022 won earlier use in lymphoma",
+            "details": {
+              "Indications": "> Cleared for several B-cell lymphomas including DLBCL & follicular lymphoma. 2022 won earlier use in lymphoma.",
+              "Notes": "xxxxxxxxxxxx"
+            }
+          },
+          {
+            "item": "Tecartus",
+            "description": "(Gilead) 3rd CAR-T approved in July 2020, first for mantle cell lymphoma, extended to acute lymphoblastic leukemia",
+            "details": {
+              "Indications": "> First for mantle cell lymphoma, extended to acute lymphoblastic leukemia",
+              "Notes": "xxxxxxxxxxxxxxxxxxxxxxxx"
+            }
+          },
+          {
+            "item": "Breyanzi",
+            "description": "(Bristol Myers) 4th CAR-T approved in Feb 2021",
+            "details": {
+              "Indications": "> for types of large B-cell lymphoma",
+              "Notes": "xxxxxxxxxxxxxxxxxx"
+            }
+          },
+          {
+            "item": "Abecma",
+            "description": "(Bristol Myers) 5th CAR-T approved in Mar 2021, 1st for multiple myeloma",
+            "details": {
+              "Indications": "> xxxxxxxxxxxxxxxxxx",
+              "Notes": "Targets B-cell maturation antigen (BCMA)."
+            }
+          },
+          {
+            "item": "Carvykti",
+            "description": "(J&J/Legend Biotech) 6th CAR-T approved in Feb 2022, 2nd for multiple myeloma",
+            "details": {
+              "Indications": "> xxxxxxxxxxxxxxxxxxxxx",
+              "Notes": "Approved in Feb 2022. Targets BCMA."
+            }
+          }
+        ]
+      },
+      {
+        "group": "Bispecific antibodies",
+        "items": [
+          {
+            "item": "Blincyto",
+            "description": "First to win approval in 2014.",
+            "details": {
+              "Maker": "Amgen",
+              "Notes": "These bispecific drugs work by binding simultaneously to proteins on tumor cells and on T cells, inducing an immune attack on cancer. The first drugs to gain approval treated leukemia and lymphoma based on protein targets distinctive to those diseases."
+            }
+          },
+          {
+            "item": "Hemlibra",
+            "description": "2nd bispecific antibody approved in U.S.",
+            "details": {
+              "Maker": "Roche",
+              "Notes": "Binds to two proteins important in blood clotting to help stem bleeding in people with hemophilia. Targets: CD19 x CD3"
+            }
+          },
+          {
+            "item": "Rybrevant",
+            "description": "3rd bispecific antibody approved in U.S. in May 2021",
+            "details": {
+              "Maker": "J&J",
+              "Notes": "The FDA approved Rybrevant to treat a specific mutation in a cancer-linked protein that’s thought to be present in about 2% of patients with non-small cell lung cancer. Targets: EGFR x cMET"
+            }
+          },
+          {
+            "item": "Vabysmo",
+            "description": "Approved in Jan 2022, fourth FDA-approved therapy for “wet” age-related macular degeneration",
+            "details": {
+              "Maker": "Roche",
+              "Notes": "4th FDA-approved therapy for “wet” age-related macular degeneration. VEGF x Ang-2"
+            }
+          },
+          {
+            "item": "Tecvayli",
+            "description": "Approved in Oct 2022, first-of-its kind for multiple myeloma",
+            "details": {
+              "Maker": "J&J",
+              "Notes": "Targets BCMA x CD3. One of a wave to target this protein found on malignant cells in multiple myeloma. GlaxoSmithKline was the first to target BCMA with an antibody-drug conjugate Blenrep OK'd in 2020. The CAR-T Abecma also targets BCMA. Tecvayli was J&J's 4th approved treatment for multiple myeloma."
+            }
+          },
+          {
+            "item": "Epkinly",
+            "description": "Approved in May 2023",
+            "details": {
+              "Maker": "AbbVie",
+              "Notes": "Relapsed or refractory diffuse large B-cell lymphoma (DLBCL). CD20 x CD3"
+            }
+          },
+          {
+            "item": "Lunsumio",
+            "description": "Approved in Dec 2022",
+            "details": {
+              "Maker": "Roche",
+              "Notes": "Follicular lymphoma. CD20 x CD3"
+            }
+          },
+          {
+            "item": "Talquetamab",
+            "description": "Experimental",
+            "details": {
+              "Maker": "J&J",
+              "Notes": "Targets GPR5CD x CD3"
+            }
+          }
+        ]
+      },
+      {
+        "group": "RSV vaccines",
+        "items": [
+          {
+            "item": "Abrysvo",
+            "description": "FDA considering for adults and maternal use in 2023.",
+            "details": {
+              "Maker": "Pfizer",
+              "Notes": "Advisers voted 14-0 and 10-4 (safety for infant use and a closer 7-4 for older adults use in separate 2023 votes, approvals due August and May, respectively."
+            }
+          },
+          {
+            "item": "Arexvy",
+            "description": "First RSV vaccine to win U.S. approval, in May 2023.",
+            "details": {
+              "Maker": "GSK",
+              "Notes": "Cleared only for use in adults 60 years or older."
+            }
+          }
+        ]
+      },
+      {
+        "group": "Viral vectors",
+        "items": [
+          {
+            "item": "AAV",
+            "description": "adeno-associated virus. Single stranded DNA",
+            "details": {
+              "Integration": "Episomal, with 0.1% genomic. You can't say liver directed AAV gene therapy will be permanent, doesn't survive cell division or apoptosis. Max insertion size: Less than 8kb",
+              "Notes": "XXXXXXXXXXXXXXXXXXXXX"
+            }
+          },
+          {
+            "item": "Adenovirus",
+            "description": "double stranded DNA",
+            "details": {
+              "Integration": "Episomal. Short term effect of 1-2 weeks. 5kb"
+            }
+          },
+          {
+            "item": "Lentivirus",
+            "description": "RNA",
+            "details": {
+              "Integration": "Genomic. Life-long transgene expression. 8-12kb"
+            }
+          },
+          {
+            "item": "Herpes Simplex Virus",
+            "description": "double stranded DNA",
+            "details": {
+              "Integration": "Episomal. Targets are CNS, muscle, heart, liver. Large packaging capacity between 30-50kb",
+              "Examples": "Krystal Biotech's Vyjuvek, first topical gene therapy OK'd in May 2023, for \"butterfly children\" with dystrophic epidermolysis bullosa."
+            }
+          }
+        ]
+      },
+      {
+        "group": "Gene therapy for inherited disease",
+        "items": [
+          {
+            "item": "Zolgensma",
+            "description": "xxxxxxxxxxx",
+            "details": {
+              "Maker": "Novartis",
+              "Notes": "xxxxxxxxxxxxxxxxxxxxx"
+            }
+          },
+          {
+            "item": "Luxturna",
+            "description": "xxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "Maker": "Novartis",
+              "Notes": "xxxxxxxxxxxxxxxxxxxxx"
+            }
+          },
+          {
+            "item": "Zynteglo",
+            "description": "xxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "Maker": "xxxxxxxxxxxxx",
+              "Notes": "xxxxxxxxxxxxxxxxxxxxx"
+            }
+          },
+          {
+            "item": "Skysona",
+            "description": "xxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "Maker": "xxxxxxxxxxxxx",
+              "Notes": "xxxxxxxxxxxxxxxxxxxxx"
+            }
+          },
+          {
+            "item": "Hemgenix",
+            "description": "xxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "Maker": "xxxxxxxxxxxxx",
+              "Notes": "xxxxxxxxxxxxxxxxxxxxx"
+            }
+          },
+          {
+            "item": "Vyjuvek",
+            "description": "first topical (and redosable) gene therapy, for dystrophic epidermolysis bullosa. Sixth GT for inherited approved.",
+            "details": {
+              "Maker": "Krystal Biotech",
+              "Notes": "Approved May 2023"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Companies",
+    "groups": [
+      {
+        "group": "Pfizer",
+        "items": [
+          {
+            "item": "Flu vaccines",
+            "description": "Prevnar shots",
+            "details": {
+              "Prevnar-20": "20-strain pneumococcal shot OK'd for infants and children in April 2023 and OK'd in adults in 2021.",
+              "Prevnar-13": "Protects against 13 bacteria strains."
+            }
+          },
+          {
+            "item": "Covid therapies",
+            "description": "",
+            "details": {
+              "Paxlovid": "COVID antiviral",
+              "Comirnaty": "COVID-19 vaccine with partner BioNTech"
+            }
+          }
+        ]
+      },
+      {
+        "group": "Novo Novartis",
+        "items": [
+          {
+            "item": "GLP-1 agonists",
+            "description": "description",
+            "details": {
+              "Victoza, Saxenda (liraglutide)": "Victoza - daily shot for diabetes approved in 2010Saxenda - Novo pioneered the use of insulin-stimulating diabetes drugs as weight loss treatments when it launched a high-dose version Victoza as Saxenda in 2014.",
+              "Ozempic": "Approved in 2017 for Type 2 diabetes - injectable semaglutide in 0.5, 1.0 and 2.0 mg doses",
+              "Rybelsus": "Approved 2019 for Type 2 diabetes - pill of semaglutide in 3, 7 and 14 mg doses",
+              "Wegovy": "Approved in 2021 for weight loss - injectable semaglutide in escalating doses to begin and then 2.4 mg for maintenance",
+              "Experimental obesity pill": "Once daily pill of 50 mg semaglutide Novo plans to ask for approval after a Phase 3 study showed it help patients lose an average 15.1% of weight"
+            }
+          }
+        ]
+      },
+      {
+        "group": "Novartis",
+        "items": []
+      },
+      {
+        "group": "Eli Lilly",
+        "items": [
+          {
+            "item": "GLP-1 agonists",
+            "description": "Glucagon-like peptide-1 receptor agonists",
+            "details": {
+              "Trulicity (dulaglutide)": "Weekly shot for Type 2 diabetes approved in 2014",
+              "Mounjaro (tirzepatide)": "Shot approved to control diabetes in May 2022Works by stimulating two hormones, GLP-1 and GIP"
+            }
+          },
+          {
+            "item": "Other diabetes",
+            "description": "",
+            "details": {
+              "Basaglar": "Long-acting human insulin analog. Partner Boehringer Ingelheim",
+              "Humalog": "Human insulin analogs",
+              "Jardiance": "Approved for type 2 diabetes. Cleared expanded use in heart failure patients. Partner Boehringer Ingelheim"
+            }
+          },
+          {
+            "item": "Oncology",
+            "description": "",
+            "details": {
+              "Alimta": "",
+              "Cyramza": "",
+              "Erbitux": "",
+              "Jaypirca": "",
+              "Retevmo": "",
+              "Tyvyt": "",
+              "Verzenio": ""
+            }
+          },
+          {
+            "item": "Immunology",
+            "description": "",
+            "details": {
+              "Olumiant": "",
+              "Taltz": ""
+            }
+          },
+          {
+            "item": "Neuroscience",
+            "description": "",
+            "details": {
+              "Cymbalta": "",
+              "Emgality": "",
+              "Zyprexa": ""
+            }
+          },
+          {
+            "item": "Other products",
+            "description": "",
+            "details": {
+              "Covid therapies": "bamlanivimab and etesevimab, and bebtelovimab",
+              "Cialis": "",
+              "Forteo": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Diseases",
+    "groups": [
+      {
+        "group": "Neuro-degenerative",
+        "items": [
+          {
+            "item": "Alzheimer's disease",
+            "description": "xxxxxxxxxxx",
+            "details": {
+              "xxxxxxxxxxxxxxxxxxxxx": "xxxxxxxxxxxxxxx",
+              "xxxxxxxxxx": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+            }
+          },
+          {
+            "item": "ALS",
+            "description": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "Failed drugs": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+              "Notes": "xxxxxxxxxxxxxxxxxxxxx"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
