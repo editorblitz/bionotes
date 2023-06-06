@@ -384,5 +384,237 @@
         ]
       }
     ]
+  },
+  {
+    "categoryName": "Companies",
+    "groups": [
+      {
+        "group": "Pfizer",
+        "items": [
+          {
+            "item": "Flu vaccines",
+            "description": "Prevnar shots",
+            "details": {
+              "Prevnar-20": {
+                "text": "20-strain pneumococcal shot OK'd for infants and children in April 2023 and OK'd in adults in 2021.",
+                "collapsible": false
+              },
+              "Prevnar-13": {
+                "text": "Protects against 13 bacteria strains.",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Covid therapies",
+            "description": "",
+            "details": {
+              "Paxlovid": {
+                "text": "COVID antiviral",
+                "collapsible": false
+              },
+              "Comirnaty": {
+                "text": "COVID-19 vaccine with partner BioNTech",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "Novo Novartis",
+        "items": [
+          {
+            "item": "GLP-1 agonists",
+            "description": "description",
+            "details": {
+              "Victoza, Saxenda (liraglutide)": {
+                "text": "Victoza - daily shot for diabetes approved in 2010Saxenda - Novo pioneered the use of insulin-stimulating diabetes drugs as weight loss treatments when it launched a high-dose version Victoza as Saxenda in 2014.",
+                "collapsible": false
+              },
+              "Ozempic": {
+                "text": "Approved in 2017 for Type 2 diabetes - injectable semaglutide in 0.5, 1.0 and 2.0 mg doses",
+                "collapsible": false
+              },
+              "Rybelsus": {
+                "text": "Approved 2019 for Type 2 diabetes - pill of semaglutide in 3, 7 and 14 mg doses",
+                "collapsible": false
+              },
+              "Wegovy": {
+                "text": "Approved in 2021 for weight loss - injectable semaglutide in escalating doses to begin and then 2.4 mg for maintenance",
+                "collapsible": false
+              },
+              "Experimental obesity pill": {
+                "text": "Once daily pill of 50 mg semaglutide Novo plans to ask for approval after a Phase 3 study showed it help patients lose an average 15.1% of weight",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "Novartis",
+        "items": []
+      },
+      {
+        "group": "Eli Lilly",
+        "items": [
+          {
+            "item": "GLP-1 agonists",
+            "description": "Glucagon-like peptide-1 receptor agonists",
+            "details": {
+              "Trulicity (dulaglutide)": {
+                "text": "Weekly shot for Type 2 diabetes approved in 2014",
+                "collapsible": false
+              },
+              "Mounjaro (tirzepatide)": {
+                "text": "Shot approved to control diabetes in May 2022Works by stimulating two hormones, GLP-1 and GIP",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Other diabetes",
+            "description": "",
+            "details": {
+              "Basaglar": {
+                "text": "Long-acting human insulin analog. Partner Boehringer Ingelheim",
+                "collapsible": false
+              },
+              "Humalog": {
+                "text": "Human insulin analogs",
+                "collapsible": false
+              },
+              "Jardiance": {
+                "text": "Approved for type 2 diabetes. Cleared expanded use in heart failure patients. Partner Boehringer Ingelheim",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Oncology",
+            "description": "",
+            "details": {
+              "Alimta": {
+                "text": "",
+                "collapsible": false
+              },
+              "Cyramza": {
+                "text": "",
+                "collapsible": false
+              },
+              "Erbitux": {
+                "text": "",
+                "collapsible": false
+              },
+              "Jaypirca": {
+                "text": "",
+                "collapsible": false
+              },
+              "Retevmo": {
+                "text": "",
+                "collapsible": false
+              },
+              "Tyvyt": {
+                "text": "",
+                "collapsible": false
+              },
+              "Verzenio": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Immunology",
+            "description": "",
+            "details": {
+              "Olumiant": {
+                "text": "",
+                "collapsible": false
+              },
+              "Taltz": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Neuroscience",
+            "description": "",
+            "details": {
+              "Cymbalta": {
+                "text": "",
+                "collapsible": false
+              },
+              "Emgality": {
+                "text": "",
+                "collapsible": false
+              },
+              "Zyprexa": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Other products",
+            "description": "",
+            "details": {
+              "Covid therapies": {
+                "text": "bamlanivimab and etesevimab, and bebtelovimab",
+                "collapsible": false
+              },
+              "Cialis": {
+                "text": "",
+                "collapsible": false
+              },
+              "Forteo": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Diseases",
+    "groups": [
+      {
+        "group": "Neuro-degenerative",
+        "items": [
+          {
+            "item": "Alzheimer's disease",
+            "description": "xxxxxxxxxxx",
+            "details": {
+              "xxxxxxxxxxxxxxxxxxxxx": {
+                "text": "xxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "xxxxxxxxxx": {
+                "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "ALS",
+            "description": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "Failed drugs": {
+                "text": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Notes": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      }
+    ]
   }
 ]
