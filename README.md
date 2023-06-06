@@ -1,6 +1,12 @@
 # Markdown to JSON to Reactive Data Tree
 
-1. Have notes in markdown with levels set by: # is button under Broad area, ## is button under Specific, ### is button under Items, - is description for Item button (is optional), #### is bolded key phrase: in Details column followed by text inputted in markdown as basic line. If want linebreak in text, use | in markdown, and if want the text collapsible in Details, begin markdown line with > 
+1. Have notes in markdown with levels set by: 
+- # is button under Broad area, 
+- ## is button under Specific
+- ### is button under Items
+- - is description for Item button (is optional)
+- #### is bolded key phrase: in Details column followed by text inputted in markdown as basic line. 
+- If want linebreak in text, use | in markdown, and if want the text collapsible in Details, begin markdown line with > 
 2. Convert markdown to json and upload to github
 3. Update App fetch requests to github raw links
 4. Use app to explore data tree
