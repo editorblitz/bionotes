@@ -1,7 +1,7 @@
 # Markdown to JSON to Reactive Data Tree
 
 1. Have notes in markdown with levels set by: 
-- # is button under Broad area, 
+(# is button under Broad area) 
 - ## is button under Specific
 - ### is button under Items
 - - is description for Item button (is optional)
