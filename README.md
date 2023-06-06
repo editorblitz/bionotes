@@ -1,9 +1,9 @@
 # Markdown to JSON to Reactive Data Tree
 
-1. Have notes in markdown with levels set by: # is Broad area, ## is Specific, ### Items, #### Details
-3. Convert markdown to json and upload to github
-4. Update App fetch requests to github raw links
-5. Use app to explore data tree
+1. Have notes in markdown with levels set by: # is button under Broad area, ## is button under Specific, ### is button under Items, - is description for Item button (is optional), #### is bolded key phrase: in Details column followed by text inputted in markdown as basic line. If want linebreak in text, use | in markdown, and if want the text collapsible in Details, begin markdown line with > 
+2. Convert markdown to json and upload to github
+3. Update App fetch requests to github raw links
+4. Use app to explore data tree
 
 ![image](https://github.com/editorblitz/bionotes/assets/67771494/69d0bb04-4758-4a80-8dc2-6407f6c1b94e)
 
