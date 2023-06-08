@@ -1,5 +1,475 @@
 [
   {
+    "categoryName": "Companies",
+    "groups": [
+      {
+        "group": "Pfizer",
+        "items": [
+          {
+            "item": "Flu vaccines",
+            "description": "Prevnar shots",
+            "details": {
+              "Prevnar-20": {
+                "text": "20-strain pneumococcal shot OK'd for infants and children in April 2023 and OK'd in adults in 2021.",
+                "collapsible": false
+              },
+              "Prevnar-13": {
+                "text": "Protects against 13 bacteria strains.",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Covid therapies",
+            "description": "",
+            "details": {
+              "Paxlovid": {
+                "text": "COVID antiviral",
+                "collapsible": false
+              },
+              "Comirnaty": {
+                "text": "COVID-19 vaccine with partner BioNTech",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "Novo Novartis",
+        "items": [
+          {
+            "item": "GLP-1 agonists",
+            "description": "description",
+            "details": {
+              "Victoza, Saxenda (liraglutide)": {
+                "text": "Victoza - daily shot for diabetes approved in 2010Saxenda - Novo pioneered the use of insulin-stimulating diabetes drugs as weight loss treatments when it launched a high-dose version Victoza as Saxenda in 2014.",
+                "collapsible": false
+              },
+              "Ozempic": {
+                "text": "Approved in 2017 for Type 2 diabetes - injectable semaglutide in 0.5, 1.0 and 2.0 mg doses",
+                "collapsible": false
+              },
+              "Rybelsus": {
+                "text": "Approved 2019 for Type 2 diabetes - pill of semaglutide in 3, 7 and 14 mg doses",
+                "collapsible": false
+              },
+              "Wegovy": {
+                "text": "Approved in 2021 for weight loss - injectable semaglutide in escalating doses to begin and then 2.4 mg for maintenance",
+                "collapsible": false
+              },
+              "Experimental obesity pill": {
+                "text": "Once daily pill of 50 mg semaglutide Novo plans to ask for approval after a Phase 3 study showed it help patients lose an average 15.1% of weight",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "Novartis",
+        "items": []
+      },
+      {
+        "group": "Eli Lilly",
+        "items": [
+          {
+            "item": "GLP-1 agonists",
+            "description": "Glucagon-like peptide-1 receptor agonists",
+            "details": {
+              "Trulicity (dulaglutide)": {
+                "text": "Weekly shot for Type 2 diabetes approved in 2014",
+                "collapsible": false
+              },
+              "Mounjaro (tirzepatide)": {
+                "text": "Shot approved to control diabetes in May 2022Works by stimulating two hormones, GLP-1 and GIP",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Other diabetes",
+            "description": "",
+            "details": {
+              "Basaglar": {
+                "text": "Long-acting human insulin analog. Partner Boehringer Ingelheim",
+                "collapsible": false
+              },
+              "Humalog": {
+                "text": "Human insulin analogs",
+                "collapsible": false
+              },
+              "Jardiance": {
+                "text": "Approved for type 2 diabetes. Cleared expanded use in heart failure patients. Partner Boehringer Ingelheim",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Oncology",
+            "description": "",
+            "details": {
+              "Alimta": {
+                "text": "",
+                "collapsible": false
+              },
+              "Cyramza": {
+                "text": "",
+                "collapsible": false
+              },
+              "Erbitux": {
+                "text": "",
+                "collapsible": false
+              },
+              "Jaypirca": {
+                "text": "",
+                "collapsible": false
+              },
+              "Retevmo": {
+                "text": "",
+                "collapsible": false
+              },
+              "Tyvyt": {
+                "text": "",
+                "collapsible": false
+              },
+              "Verzenio": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Immunology",
+            "description": "",
+            "details": {
+              "Olumiant": {
+                "text": "",
+                "collapsible": false
+              },
+              "Taltz": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Neuroscience",
+            "description": "",
+            "details": {
+              "Cymbalta": {
+                "text": "",
+                "collapsible": false
+              },
+              "Emgality": {
+                "text": "",
+                "collapsible": false
+              },
+              "Zyprexa": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Other products",
+            "description": "",
+            "details": {
+              "Covid therapies": {
+                "text": "bamlanivimab and etesevimab, and bebtelovimab",
+                "collapsible": false
+              },
+              "Cialis": {
+                "text": "",
+                "collapsible": false
+              },
+              "Forteo": {
+                "text": "",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "AstraZeneca",
+        "items": [
+          {
+            "item": "Oncology",
+            "description": "xxxxxxxxxxxxxxxxx",
+            "details": {
+              "Tagrisso": {
+                "text": "Accelerated OK in 2015 for EGFR mutation-positive non-small cell lung cancer, full OK in 2017m later expanded to first line and adjuvant [history](https://www.drugs.com/history/tagrisso.html) | Oral tyrosine kinase inhibitor (TKI) of epidermal growth factor receptor (EGFR)  | 2023 [results](https://www.biopharmadive.com/news/astrazeneca-tagrisso-imfinzi-early-lung-cancer/644565/) added to debate whether cancer drugs' ability to stop tumors is proxy for ability to keep patients alive, ie. translating measures known as “disease-free survival” or “event-free survival\" in early testing before accumulate evidence of extending lives.",
+                "collapsible": true
+              },
+              "Imfinzi": {
+                "text": "xxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Lynparza": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Calquence": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Enhertu": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Orpathys": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Zoladex": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Faslodex": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Iressa": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Arimidex": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Casodex": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Notes on cancer": {
+                "text": "Stat: Since 2014, AstraZeneca has brought eight new cancer medicines to market. Several have become mainstay products in the field of targeted therapy, including Lynparza, Enhertu, and Tagrisso. | Susan Galbraith leads cancer R&D and Pascal Soriot became CEO in 2021, flipped culture to science over finances.",
+                "collapsible": true
+              }
+            }
+          },
+          {
+            "item": "Cardio Renal Metabolic",
+            "description": "xxxxxxxxxxxxxxxxx",
+            "details": {
+              "Farxiga": {
+                "text": "xxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Brilinta": {
+                "text": "xxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Lokelma": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Roxadustat": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Andexxa": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Crestor": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Seloken/Toprol-XL": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Bydureon": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Onglyza": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Notes on cancer": {
+                "text": "Stat: Since 2014, AstraZeneca has brought eight new cancer medicines to market. Several have become mainstay products in the field of targeted therapy, including Lynparza, Enhertu, and Tagrisso. | Susan Galbraith leads cancer R&D and Pascal Soriot became CEO in 2021, flipped culture to science over finances.",
+                "collapsible": true
+              }
+            }
+          },
+          {
+            "item": "Respiratory & Immunology",
+            "description": "xxxxxxxxxxxxxxxxx",
+            "details": {
+              "Symbicort": {
+                "text": "xxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Fasenra": {
+                "text": "xxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Breztri": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Saphnelo": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Tezspire": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Pulmicort": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Daliresp/Daxas": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Bevespi": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Vaccines & Immune Therapies",
+            "description": "xxxxxxxxxxxxxxxxx",
+            "details": {
+              "Vaxzevria": {
+                "text": "xxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Evusheld": {
+                "text": "xxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Synagis": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "FluMist": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Rare Disease",
+            "description": "xxxxxxxxxxxxxxxxx",
+            "details": {
+              "Soliris": {
+                "text": "xxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Ultomiris": {
+                "text": "xxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Strensiq": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Koselugo": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Kanuma": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Other",
+            "description": "",
+            "details": {
+              "Nexium": {
+                "text": "xxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "categoryName": "Diseases",
+    "groups": [
+      {
+        "group": "Neuro-degenerative",
+        "items": [
+          {
+            "item": "Alzheimer's disease",
+            "description": "xxxxxxxxxxx",
+            "details": {
+              "xxxxxxxxxxxxxxxxxxxxx": {
+                "text": "xxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "xxxxxxxxxx": {
+                "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "ALS",
+            "description": "Amyotrophic lateral sclerosis",
+            "details": {
+              "Failed drugs": {
+                "text": "ALS has frustrated researchers for decades. In 2017, this group cited [more than 60 molecules](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5360725/) that had been studied and “overwhelming majority” resulted in disappointment. | Study failures in recent years include: [Biogen](https://www.biopharmadive.com/news/biogen-ionis-als-drug-study-failure-genetic/621107/), [Cytokinetics](https://www.biopharmadive.com/news/cytokinetics-als-trial-discontinuation-courage-study/646550/), [Alexion Pharmaceuticals](https://www.biopharmadive.com/news/alexion-discontinues-als-drug-trial-due-to-lack-of-efficacy/605412/) [Biohaven Pharmaceuticals](https://www.biopharmadive.com/news/biohaven-als-healey-trial-verdiperstat/632974/)  [Wave Life](https://www.biopharmadive.com/news/wave-als-dementia-drug-discontinue-trial-setback/651017/) [Apellis Pharmaceuticals](https://www.biopharmadive.com/news/apellis-als-pegcetacoplan-study-failure/651257/)",
+                "collapsible": true
+              },
+              "Approvals": {
+                "text": "[Rilutek](https://www.alsclinic.pitt.edu/patient-issues/are-there-treatments) cleared in 1995 | [Radicava](https://www.als.org/navigating-als/living-with-als/fda-approved-drugs/edaravone) OK'd in 2017. | Amylyx’s Relyvrio accelerated OK in [Sept 2022](https://www.biopharmadive.com/news/amylyx-fda-approval-als-drug-relyvrio/632592/) | Biogen's Qalsody for small group with specific mutation in [April 2023](https://www.biopharmadive.com/news/biogen-tofersen-als-fda-approval-decision/648235/) | None of the approved drugs can reverse or cure the condition, at best giving patients a chance to slow their decline and live longer.",
+                "collapsible": true
+              },
+              "Disease notes": {
+                "text": "Also known as Lou Gehrig’s disease, the disorder attacks nerve cells in the brain and spinal cord, causing a loss of muscle control that eventually affects the whole body, even robbing a person of the ability to breathe. The average [survival time](https://www.als.org/understanding-als/stages) after diagnosis is three years. | In part pushed by patients, the FDA and NIH in 2022 launched an [initiative](https://www.biopharmadive.com/news/fda-nih-neurodegenerative-diseases-initiative/631945/) focused on ALS and other rare brain conditions",
+                "collapsible": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "group": "Cardio-vascular",
+        "items": [
+          {
+            "item": "Cardiology",
+            "description": "xxxxxxxxxxx",
+            "details": {
+              "Investment": {
+                "text": "Venture firms have historically [hesitated to invest in heart drugs](https://www.biopharmadive.com/news/pharmacquired-heart-drug-deals-myokardia/586434/). They’re expensive to develop and test and, in recent years, have taken a backseat to research areas like cancer and rare diseases, which can have shorter development timelines.",
+                "collapsible": true
+              },
+              "xxxxxxxxxx": {
+                "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "another cardio-vasc",
+            "description": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+            "details": {
+              "xxxxxxxxxxx": {
+                "text": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "xxxxxxxxxxxxxx": {
+                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "categoryName": "Medicines",
     "groups": [
       {
@@ -253,7 +723,7 @@
                 "collapsible": false
               },
               "Notes": {
-                "text": "XXXXXXXXXXXXXXXXXXXXX",
+                "text": "AAVs are widely used in gene therapy experiments and involved in most of the marketed genetic medicines for inherited disorders, but are constrained by their small size, making many diseases difficult to reach.",
                 "collapsible": false
               }
             }
@@ -377,238 +847,6 @@
               },
               "Notes": {
                 "text": "Approved May 2023",
-                "collapsible": false
-              }
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "categoryName": "Companies",
-    "groups": [
-      {
-        "group": "Pfizer",
-        "items": [
-          {
-            "item": "Flu vaccines",
-            "description": "Prevnar shots",
-            "details": {
-              "Prevnar-20": {
-                "text": "20-strain pneumococcal shot OK'd for infants and children in April 2023 and OK'd in adults in 2021.",
-                "collapsible": false
-              },
-              "Prevnar-13": {
-                "text": "Protects against 13 bacteria strains.",
-                "collapsible": false
-              }
-            }
-          },
-          {
-            "item": "Covid therapies",
-            "description": "",
-            "details": {
-              "Paxlovid": {
-                "text": "COVID antiviral",
-                "collapsible": false
-              },
-              "Comirnaty": {
-                "text": "COVID-19 vaccine with partner BioNTech",
-                "collapsible": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "group": "Novo Novartis",
-        "items": [
-          {
-            "item": "GLP-1 agonists",
-            "description": "description",
-            "details": {
-              "Victoza, Saxenda (liraglutide)": {
-                "text": "Victoza - daily shot for diabetes approved in 2010Saxenda - Novo pioneered the use of insulin-stimulating diabetes drugs as weight loss treatments when it launched a high-dose version Victoza as Saxenda in 2014.",
-                "collapsible": false
-              },
-              "Ozempic": {
-                "text": "Approved in 2017 for Type 2 diabetes - injectable semaglutide in 0.5, 1.0 and 2.0 mg doses",
-                "collapsible": false
-              },
-              "Rybelsus": {
-                "text": "Approved 2019 for Type 2 diabetes - pill of semaglutide in 3, 7 and 14 mg doses",
-                "collapsible": false
-              },
-              "Wegovy": {
-                "text": "Approved in 2021 for weight loss - injectable semaglutide in escalating doses to begin and then 2.4 mg for maintenance",
-                "collapsible": false
-              },
-              "Experimental obesity pill": {
-                "text": "Once daily pill of 50 mg semaglutide Novo plans to ask for approval after a Phase 3 study showed it help patients lose an average 15.1% of weight",
-                "collapsible": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "group": "Novartis",
-        "items": []
-      },
-      {
-        "group": "Eli Lilly",
-        "items": [
-          {
-            "item": "GLP-1 agonists",
-            "description": "Glucagon-like peptide-1 receptor agonists",
-            "details": {
-              "Trulicity (dulaglutide)": {
-                "text": "Weekly shot for Type 2 diabetes approved in 2014",
-                "collapsible": false
-              },
-              "Mounjaro (tirzepatide)": {
-                "text": "Shot approved to control diabetes in May 2022Works by stimulating two hormones, GLP-1 and GIP",
-                "collapsible": false
-              }
-            }
-          },
-          {
-            "item": "Other diabetes",
-            "description": "",
-            "details": {
-              "Basaglar": {
-                "text": "Long-acting human insulin analog. Partner Boehringer Ingelheim",
-                "collapsible": false
-              },
-              "Humalog": {
-                "text": "Human insulin analogs",
-                "collapsible": false
-              },
-              "Jardiance": {
-                "text": "Approved for type 2 diabetes. Cleared expanded use in heart failure patients. Partner Boehringer Ingelheim",
-                "collapsible": false
-              }
-            }
-          },
-          {
-            "item": "Oncology",
-            "description": "",
-            "details": {
-              "Alimta": {
-                "text": "",
-                "collapsible": false
-              },
-              "Cyramza": {
-                "text": "",
-                "collapsible": false
-              },
-              "Erbitux": {
-                "text": "",
-                "collapsible": false
-              },
-              "Jaypirca": {
-                "text": "",
-                "collapsible": false
-              },
-              "Retevmo": {
-                "text": "",
-                "collapsible": false
-              },
-              "Tyvyt": {
-                "text": "",
-                "collapsible": false
-              },
-              "Verzenio": {
-                "text": "",
-                "collapsible": false
-              }
-            }
-          },
-          {
-            "item": "Immunology",
-            "description": "",
-            "details": {
-              "Olumiant": {
-                "text": "",
-                "collapsible": false
-              },
-              "Taltz": {
-                "text": "",
-                "collapsible": false
-              }
-            }
-          },
-          {
-            "item": "Neuroscience",
-            "description": "",
-            "details": {
-              "Cymbalta": {
-                "text": "",
-                "collapsible": false
-              },
-              "Emgality": {
-                "text": "",
-                "collapsible": false
-              },
-              "Zyprexa": {
-                "text": "",
-                "collapsible": false
-              }
-            }
-          },
-          {
-            "item": "Other products",
-            "description": "",
-            "details": {
-              "Covid therapies": {
-                "text": "bamlanivimab and etesevimab, and bebtelovimab",
-                "collapsible": false
-              },
-              "Cialis": {
-                "text": "",
-                "collapsible": false
-              },
-              "Forteo": {
-                "text": "",
-                "collapsible": false
-              }
-            }
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "categoryName": "Diseases",
-    "groups": [
-      {
-        "group": "Neuro-degenerative",
-        "items": [
-          {
-            "item": "Alzheimer's disease",
-            "description": "xxxxxxxxxxx",
-            "details": {
-              "xxxxxxxxxxxxxxxxxxxxx": {
-                "text": "xxxxxxxxxxxxxxx",
-                "collapsible": false
-              },
-              "xxxxxxxxxx": {
-                "text": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
-                "collapsible": false
-              }
-            }
-          },
-          {
-            "item": "ALS",
-            "description": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
-            "details": {
-              "Failed drugs": {
-                "text": "xxxxxxxxxxxxxxxxxxxxxxxxx",
-                "collapsible": false
-              },
-              "Notes": {
-                "text": "xxxxxxxxxxxxxxxxxxxxx",
                 "collapsible": false
               }
             }
