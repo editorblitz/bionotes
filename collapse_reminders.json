@@ -36,7 +36,7 @@
         ]
       },
       {
-        "group": "Novo Novartis",
+        "group": "Novo Nordisk",
         "items": [
           {
             "item": "GLP-1 agonists",
@@ -68,7 +68,130 @@
       },
       {
         "group": "Novartis",
-        "items": []
+        "items": [
+          {
+            "item": "Restructuring",
+            "description": "In 2022 Novartis narrowed its focus to these five drug areas",
+            "details": {
+              "Restructuring": {
+                "text": "It trimmed [10% of pipeline](https://www.biopharmadive.com/news/novartis-narrows-drug-pipeline-1q23-earnings/648522/) in early 2023 as part of a [restructuring](https://www.biopharmadive.com/news/novartis-restructuring-executives-tsai-departure/621485/) that has laid off [thousands of employees](https://www.biopharmadive.com/news/novartis-restructuring-layoffs-switzerland/626265/) | [is spinning out its generics division Sandoz](https://www.biopharmadive.com/news/novartis-sandoz-spinoff-generic-drug/630492/) | Halted work on medicines for [sickle cell disease](https://www.biopharmadive.com/news/intellia-graphite-sangamo-sickle-cell-gene-therapy-discontinue/643400/) and [Huntington’s disease](https://www.biopharmadive.com/news/novartis-huntingtons-drug-development-stop-branaplam/641747/) and gave up the licensing rights for a drug aimed at [a type of fatty liver disease](https://www.biopharmadive.com/news/novartis-nash-deal-termination-pliant/643530/).",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Cardiovascular",
+            "description": "",
+            "details": {
+              "Entresto": {
+                "text": "Heart failure drug had sluggish launch after it was OK'd in 2025, but broke $1B in 2019 and by 2022 was a topseller | First approved for patients with “reduced ejection fraction\", expanded to \"preserved ejection fraction\" in 2021 — first drug to be cleared for both groups.",
+                "collapsible": false
+              },
+              "Leqvio": {
+                "text": "RNA interference therapy to reduce LDL cholesterol via in-office injection. | Works like Amgen’s Repatha and Sanofi/Regeneron's Praluent. Approved in [Dec 2021](https://www.biopharmadive.com/news/novartis-leqvio-inclisiran-fda-approval-cholesterol-heart/611170/) | Invented by Alnylam and bought via developer The Medicines Co.",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Immunology",
+            "description": "",
+            "details": {
+              "Cosentyx": {
+                "text": "Inflammatory disease drug second highest seller in early 2022 | Works by inhibiting a pro-inflammatory protein called interleukin-17A, or IL-17A. | Competitors: Eli Lilly’s Taltz (ixekizumab) also targets IL-17A, while Bausch Health’s Siliq (brodalumab) focuses specifically on IL-17.",
+                "collapsible": false
+              },
+              "Xolair": {
+                "text": "Roche (Genentech)/Novartis biological asthma drug. Also can be used for chronic hives known in clinical parlance as chronic idiopathic urticaria [history](https://www.drugs.com/history/xolair.html)",
+                "collapsible": false
+              },
+              "Ilaris": {
+                "text": "Sold for several fever syndromes and uncommon forms of arthritis. The drug, canakinumab, binds to a cytokine protein called IL-1ß which controls inflammatory signaling, and blocking it was thought to suppress pro-tumor inflammation. [Has failed to win broader use](https://www.biopharmadive.com/news/novartis-canakinumab-lung-cancer-phase-3-study-failure/629636/) to reduce heart risk and as a cancer drug.",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Neuroscience",
+            "description": "",
+            "details": {
+              "Gilenya": {
+                "text": "Multiple sclerosis drug facing generics competition. First approved in Sept 2010, was the first oral drug for the relapsing-remitting form of multiple sclerosis and made Novartis one of several major players in multiple sclerosis. | Acts on the sphingosine 1-phosphate (S1P) receptor | Supreme Ct. in April 2023 refused to stop a lower court's ruling canceling its patent.",
+                "collapsible": false
+              },
+              "Zolgensma": {
+                "text": "Gene therapy for rare condition called spinal muscular atrophy. see Medicines | Approved in [2019 ](https://www.biopharmadive.com/news/novartis-gene-therapy-zolgensma-approved-fda/554961/)a year after Novartis acquired it from AveXis for about $9B",
+                "collapsible": false
+              },
+              "Kesimpta": {
+                "text": "Self-administered injectable for relapsing form of MS, the most common form of the disease, an advantage Novartis sees over Roche's Ocrevus that is infused 2X/yr at doc. | OK'd in [Aug 2020](https://www.biopharmadive.com/news/novartis-fda-approves-multiple-sclerosis-drug-kesimpta/583901/) | Part of a shift away from older medicines like interferons towards pills and monoclonal antibodies since 2010 like Biogen's Tecfidera and Ocrevus. | Low-dose formulation of old leukemia drug Arzerra that, like Ocrevus, targets CD20 on B cells that can delay MS symptoms.",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Solid Tumor",
+            "description": "",
+            "details": {
+              "Tafinlar + Mekinist": {
+                "text": "xxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Kisqali": {
+                "text": "Breast cancer treatment",
+                "collapsible": false
+              },
+              "Piqray": {
+                "text": "xxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Pluvicto": {
+                "text": "Prostate cancer drug",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Hematology",
+            "description": "",
+            "details": {
+              "Promacta/Revolade": {
+                "text": "xxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Tasigna": {
+                "text": "xxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Jakavi": {
+                "text": "xxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Scemblix": {
+                "text": "xxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          },
+          {
+            "item": "Other brands",
+            "description": "Lucentis, Xiidra, Sandostatin",
+            "details": {
+              "Lucentis": {
+                "text": "xxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Xiidra": {
+                "text": "xxxxxxxxxxxxxx",
+                "collapsible": false
+              },
+              "Sandostatin": {
+                "text": "xxxxxxxxxxxxxx",
+                "collapsible": false
+              }
+            }
+          }
+        ]
       },
       {
         "group": "Eli Lilly",
@@ -768,29 +891,21 @@
         "group": "Gene therapy for inherited disease",
         "items": [
           {
-            "item": "Zolgensma",
-            "description": "xxxxxxxxxxx",
+            "item": "Luxturna",
+            "description": "1st gene therapy approved in U.S. for an inherited disorder (Spark Therapeutics)",
             "details": {
-              "Maker": {
-                "text": "Novartis",
-                "collapsible": false
-              },
               "Notes": {
-                "text": "xxxxxxxxxxxxxxxxxxxxx",
-                "collapsible": false
+                "text": "[OK'd in Dec 2017](https://www.biopharmadive.com/news/fda-spark-blindness-treatment-gene-therapy-luxturna/513431/) for hereditary form of vision loss caused by mutations in a gene known as RPE65, which leads to impaired or altogether absent function from its encoded protein. | Individuals who have RPE65 mutation-associated retinal dystrophy experience vision loss in childhood or adolescence, progressing to complete blindness in some patients. | Two CAR-T gene therapy treatments preceded its approval, but it was the first gene therapy directly administered for an inherited disease caused by a genetic mutation.",
+                "collapsible": true
               }
             }
           },
           {
-            "item": "Luxturna",
-            "description": "xxxxxxxxxxxxxxxxxxxxx",
+            "item": "Zolgensma",
+            "description": "2nd GT for an inherited disorder in U.S. (Novartis)",
             "details": {
-              "Maker": {
-                "text": "Novartis",
-                "collapsible": false
-              },
               "Notes": {
-                "text": "xxxxxxxxxxxxxxxxxxxxx",
+                "text": "Gene therapy for rare condition called spinal muscular atrophy [OK'd in 2019](https://www.biopharmadive.com/news/novartis-gene-therapy-zolgensma-approved-fda/554961/) | The FDA approved Zolgensma for pediatric patients under the age of two with bi-allelic mutations in the SMN1 gene. | Novartis estimated the treatable patient population +1,000 in the U.S.",
                 "collapsible": false
               }
             }
